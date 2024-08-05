@@ -9,7 +9,7 @@ Requirements:
 
 Download all project datasets to a folder on disk.
 
-You only need to have 50GB of free disk space (which is normal) you may need more than 16GB of RAM
+You only need to have 50GB of free disk space (which is normal), you may need more than 16GB of RAM
 
 You don't need a GPU
 
