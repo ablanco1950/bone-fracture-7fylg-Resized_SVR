@@ -56,6 +56,10 @@ The images have been resized, since SVR does not support images of different siz
 
 References:
 
+https://universe.roboflow.com/roboflow-100/bone-fracture-7fylg
+
+https://universe.roboflow.com/science-research/science-research-2022:-bone-fracture-detection
+
 https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
 
 https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html
@@ -64,6 +68,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticR
 
 https://stackoverflow.com/questions/23582489/python-pickle-protocol-choice
 
+https://github.com/ablanco1950/Fracture.v1i_Reduced_SVR
 
 
  
