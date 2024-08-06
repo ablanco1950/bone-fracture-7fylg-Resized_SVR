@@ -56,4 +56,11 @@ The images have been resized, since SVR does not support images of different siz
 
 References:
 
- https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
+https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+https://stackoverflow.com/questions/23582489/python-pickle-protocol-choice
+
+https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
+ 
