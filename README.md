@@ -53,3 +53,7 @@ The test images appear on the screen with a blue circle indicating the predicted
 The model is obtained in a short time with the resources of a laptop and the results do not differ much from those obtained by consulting each image at the address https://universe.roboflow.com/science-research/science-research-2022:-bone-fracture-detection (you may need to be a roboflow user, which is achieved at no cost or difficulty)
 
 The images have been resized, since SVR does not support images of different sizes, so when presented they appear a little deformed (to be improved)
+
+References:
+
+ https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
